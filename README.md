@@ -22,9 +22,16 @@ Silly is designed to provide a seamless streaming experience. This skeletal app 
 
 ## Features
 - Login screen with email and phone number options
+- ![silly-login](https://github.com/ThatLinuxGuyYouKnow/SkeletalStreamingApp/assets/92615787/535ee7f9-c6b7-434f-8cbe-d69cf2081000)
+
 - Sign up screen with email and phone number options
+- ![silly-sign-up](https://github.com/ThatLinuxGuyYouKnow/SkeletalStreamingApp/assets/92615787/f5cf054f-a065-442d-bc4d-e53dda694996)
+
 - Home screen displaying featured content
+- ![silly-home-screen](https://github.com/ThatLinuxGuyYouKnow/SkeletalStreamingApp/assets/92615787/433ec923-e57e-4155-859b-7e64e7951ab5)
+
 - Subscribe screen for subscription management
+![silly-premium](https://github.com/ThatLinuxGuyYouKnow/SkeletalStreamingApp/assets/92615787/dac56840-a186-4906-afed-e375576d9e41)
 
 
 ## Prerequisites
