@@ -1,3 +1,5 @@
+![Uploading Code_Generated_Image.png…]()
+
 # Silly - Streaming Platform
 
 Silly is a streaming platform built using Flutter. This repository contains a skeletal version of the app with essential screens for login, sign up (with email and phone number options), home, and subscribe functionalities.
