@@ -1,4 +1,4 @@
-![Uploading Code_Generated_Image.png…]()
+
 
 # Silly - Streaming Platform
 
