@@ -44,7 +44,7 @@ Silly is designed to provide a seamless streaming experience. This skeletal app 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/silly.git
+    git clone https://github.com/ThatLinuxGuyYouKnow/silly.git
     cd silly
     ```
 
